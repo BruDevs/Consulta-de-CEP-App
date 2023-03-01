@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\bin\Debug\Consulta Cep.exe.config
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\bin\Debug\Consulta Cep.exe
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\bin\Debug\Consulta Cep.pdb
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\obj\Debug\Consulta Cep.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\obj\Debug\Consulta_Cep.Form1.resources
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\obj\Debug\Consulta_Cep.Properties.Resources.resources
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\obj\Debug\Consulta Cep.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\obj\Debug\Consulta Cep.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\obj\Debug\Consulta Cep.exe
+C:\Users\Manager\Desktop\Conculta CEP C#\Consulta Cep\Consulta Cep\obj\Debug\Consulta Cep.pdb
